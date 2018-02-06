@@ -1,0 +1,11 @@
+{
+  "name": "eddmash/powerorm-bundle",
+  "require": {
+    "eddmash/powerorm": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eddmash\\Bundle\\PowerormBundle\\": ""
+    }
+  }
+}
